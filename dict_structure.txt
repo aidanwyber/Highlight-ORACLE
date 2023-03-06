@@ -1,0 +1,26 @@
+artwork
+	title-gen
+	description
+	location
+	max-future-year
+artist
+	historical-artist-chance
+	contact-info
+	pronouns
+	max-middle-names
+	nationality
+highlight-history
+	2023
+	2021
+	2020
+	2018
+	2017
+artist-collective
+	max-number
+	max-interns
+	max-supporting-students
+loading-messages
+	max-loading-duration-ms
+	actions
+	objects
+	adjectives

@@ -1,0 +1,48 @@
+////////////// ^(?!//)^(?!\n)(.*)
+////////////// "$1",
+
+// all words that don't need uppercase in lowercase
+
+
+////////////// PRE WORDS: "... Underwater Tetrahedra"
+
+future Stalin's
+beyond
+...
+
+
+////////////// ADJECTIVES: "... Tetrahedra"
+
+underwater
+viral
+...
+
+
+////////////// NOUNS: "Underwater ..." (or stands alone)
+// swamping+      <- '+' means the words cannot be made plural (no 's' added)
+// mixolog/y/ies  <- '/' defines singular and plural forms
+
+tetrahedr/on/a
+lumiere
+...
+
+
+////////////// POST-WORDS: "Underwater Tetrahedra ..."
+
+for the sake of sanity
+(having and being)
+...
+
+
+////////////// TECH-MEANS: "the artist uses ..."
+
+450 liters of water distilled from human sweat
+...
+
+
+////////////// GOAL: "the artist aims to ..."
+
+show the dark sides of exponential technological advancement
+...
+
+
